@@ -1,0 +1,9 @@
+reaction:
+  ratio:
+    A: 2
+    B: 1
+
+rate_thresholds:
+  slow: 0.4
+  medium: 0.7
+  fast: 1.0
